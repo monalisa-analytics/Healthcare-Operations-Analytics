@@ -2,8 +2,9 @@
 
 SQL-based analysis of 15 months of hospital patient encounter data, uncovering operational inefficiencies in patient flow and translating them into data-backed staffing recommendations.
 
-**Tools:** Snowflake · SQL (CTEs, window-style aggregates, multi-table joins)
-**Dataset:** 9,216 patient encounters · April 2023 – October 2024
+**Tools:** Snowflake · SQL 
+**Dataset:** 9,216 patient encounters · 
+April 2023 – October 2024
 
 ---
 
