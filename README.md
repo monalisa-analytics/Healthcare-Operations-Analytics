@@ -51,10 +51,10 @@ All analysis was written in SQL in Snowflake, structured around 12 business ques
 
 ## Repository Contents
 
-| File | Description |
-|---|---|
-| `Healthcare.sql` | Full SQL script — data cleaning + all 12 business questions |
-| `Healthcare Project Report.pdf` | Full business report with findings, interpretations, and recommendations |
+### 📄 Project Files
+
+📋 **Detailed documentation:** [Healthcare Project Report](https://github.com/monalisa-analytics/Healthcare-Operations-Analytics/blob/main/Healthcare%20Project%20Report.pdf)
+🗄 **SQL Script:** [Healthcare.sql](https://github.com/monalisa-analytics/Healthcare-Operations-Analytics/blob/main/Healthcare.sql)
 
 ## Author
 
